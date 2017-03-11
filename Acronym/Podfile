@@ -1,0 +1,7 @@
+use_frameworks!
+workspace 'Acronym'
+
+target 'Acronym' do
+	pod 'MBProgressHUD', '~> 1.0.0'
+
+end
