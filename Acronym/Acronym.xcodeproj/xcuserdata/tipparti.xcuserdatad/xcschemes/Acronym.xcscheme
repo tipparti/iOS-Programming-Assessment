@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FFB636C1E7371D1002FEA2F"
+               BlueprintIdentifier = "0FFB63A61E73787B002FEA2F"
                BuildableName = "Acronym.app"
                BlueprintName = "Acronym"
                ReferencedContainer = "container:Acronym.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FFB63801E7371D1002FEA2F"
+               BlueprintIdentifier = "0FFB63BA1E73787B002FEA2F"
                BuildableName = "AcronymTests.xctest"
                BlueprintName = "AcronymTests"
                ReferencedContainer = "container:Acronym.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0FFB638B1E7371D1002FEA2F"
+               BlueprintIdentifier = "0FFB63C51E73787B002FEA2F"
                BuildableName = "AcronymUITests.xctest"
                BlueprintName = "AcronymUITests"
                ReferencedContainer = "container:Acronym.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FFB636C1E7371D1002FEA2F"
+            BlueprintIdentifier = "0FFB63A61E73787B002FEA2F"
             BuildableName = "Acronym.app"
             BlueprintName = "Acronym"
             ReferencedContainer = "container:Acronym.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FFB636C1E7371D1002FEA2F"
+            BlueprintIdentifier = "0FFB63A61E73787B002FEA2F"
             BuildableName = "Acronym.app"
             BlueprintName = "Acronym"
             ReferencedContainer = "container:Acronym.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0FFB636C1E7371D1002FEA2F"
+            BlueprintIdentifier = "0FFB63A61E73787B002FEA2F"
             BuildableName = "Acronym.app"
             BlueprintName = "Acronym"
             ReferencedContainer = "container:Acronym.xcodeproj">
