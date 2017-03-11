@@ -10,7 +10,8 @@ import UIKit
 
 class WordCell: UITableViewCell {
     
-    
+    // MARK: Outlets
+
     @IBOutlet weak var titleLabel: UILabel!
     @IBOutlet weak var artistLabel: UILabel!
  

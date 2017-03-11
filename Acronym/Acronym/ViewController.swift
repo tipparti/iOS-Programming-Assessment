@@ -15,7 +15,9 @@ class ViewController: UIViewController {
     let defaultSession = URLSession(configuration: URLSessionConfiguration.default)
     // 2
     var dataTask: URLSessionDataTask?
-
+    
+    // MARK: Outlets
+    
     @IBOutlet weak var tableView: UITableView!
     @IBOutlet weak var searchBar: UISearchBar!
     
